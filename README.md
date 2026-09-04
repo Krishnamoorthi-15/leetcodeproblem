@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Krishnamoorthi-15/leetcodeproblem/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krishnamoorthi-15/leetcodeproblem/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0136-single-number](https://github.com/Krishnamoorthi-15/leetcodeproblem/tree/main/0136-single-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -18,4 +19,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Krishnamoorthi-15/leetcodeproblem/tree/main/0088-merge-sorted-array/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/Krishnamoorthi-15/leetcodeproblem/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
