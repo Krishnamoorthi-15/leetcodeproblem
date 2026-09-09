@@ -22,6 +22,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Krishnamoorthi-15/leetcodeproblem/tree/main/0088-merge-sorted-array/) | Easy |
+| [0242-valid-anagram](https://github.com/Krishnamoorthi-15/leetcodeproblem/tree/main/0242-valid-anagram/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,4 +35,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Krishnamoorthi-15/leetcodeproblem/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/Krishnamoorthi-15/leetcodeproblem/tree/main/0242-valid-anagram/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/Krishnamoorthi-15/leetcodeproblem/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
