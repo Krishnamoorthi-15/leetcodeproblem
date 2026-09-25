@@ -11,6 +11,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krishnamoorthi-15/leetcodeproblem/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Krishnamoorthi-15/leetcodeproblem/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Krishnamoorthi-15/leetcodeproblem/tree/main/0169-majority-element/) | Easy |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Krishnamoorthi-15/leetcodeproblem/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,6 +31,7 @@
 | [0088-merge-sorted-array](https://github.com/Krishnamoorthi-15/leetcodeproblem/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Krishnamoorthi-15/leetcodeproblem/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/Krishnamoorthi-15/leetcodeproblem/tree/main/0242-valid-anagram/) | Easy |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Krishnamoorthi-15/leetcodeproblem/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +56,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Krishnamoorthi-15/leetcodeproblem/tree/main/0509-fibonacci-number/) | Easy |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Krishnamoorthi-15/leetcodeproblem/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,4 +86,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1603-design-parking-system](https://github.com/Krishnamoorthi-15/leetcodeproblem/tree/main/1603-design-parking-system/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Krishnamoorthi-15/leetcodeproblem/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Krishnamoorthi-15/leetcodeproblem/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Krishnamoorthi-15/leetcodeproblem/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Krishnamoorthi-15/leetcodeproblem/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 <!---LeetCode Topics End-->
